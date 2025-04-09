@@ -14,4 +14,11 @@ This is a Full-Stack Job Tracker Web Application developed as part of the Cuvett
 
 ...
 
-(rest of your custom README continues...)
+## 🧠 DSA Problem Solved
+
+✅ **Problem:** Job Tracker Sorting (Medium)  
+📁 **Solution File:** `dsa-solutions/jobSorting.js`  
+📄 **Description:** Sorts job applications by `appliedDate` in descending order (latest first).
+
+
+
